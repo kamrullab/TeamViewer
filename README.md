@@ -44,7 +44,7 @@ Before switching to the old version of TeamViewer, keep the following in mind:
 
 ## GitHub License
 
-This project is licensed under the [MIT License](https://github.com/yourusername/yourrepository/blob/main/LICENSE). You are free to use, modify, and distribute the software as per the terms of the MIT License.
+This project is licensed under the [MIT License](https://github.com/kamrullab/TeamViewer/blob/main/LICENSE). You are free to use, modify, and distribute the software as per the terms of the MIT License.
 
 ## Support and Feedback
 
